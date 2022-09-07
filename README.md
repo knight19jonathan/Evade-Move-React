@@ -3,6 +3,8 @@
 ## Description
 #### Simple React Based Portfolio
 
+## Deployed Link: https://calm-jalebi-890def.netlify.app/
+
 ![This is the screenshot of the application](https://i.ibb.co/pLK9DPk/evade.jpg)
 
 ## Table of Contents
@@ -27,6 +29,8 @@
 
 ## Badge
 ![This is the badge of the application](https://img.shields.io/badge/license-unlicense-green.svg)
+
+
 
 ## Contributors
 #### Contribute Here: [N.a](N.a)
