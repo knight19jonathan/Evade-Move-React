@@ -15,7 +15,7 @@ export default function About() {
                 <div className='col-sm-12 col-md-6'>
                     <h2>Jonathan Knight</h2>
                     <p>I am a full stack web developer with a passion for creating web applications. I have a background in
-                        emergency medical services and a passion for creating web applications. I am currently looking for a position in the web development field.</p>
+                        emergency medical services and a passion for creating web applications. I a veteran with experie dealing with stressful situations and meeting irregular and changing demands of the workplace.</p>
                 </div>
             </div>
             
