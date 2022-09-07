@@ -3,7 +3,7 @@
 ## Description
 #### Simple React Based Portfolio
 
-![This is the screenshot of the application](undefined)
+![This is the screenshot of the application](https://i.ibb.co/pLK9DPk/evade.jpg)
 
 ## Table of Contents
 - [Installation](#installation)
