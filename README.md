@@ -28,6 +28,8 @@
 ## Badge
 ![This is the badge of the application](https://img.shields.io/badge/license-unlicense-green.svg)
 
+## Deployed Link: https://calm-jalebi-890def.netlify.app/
+
 ## Contributors
 #### Contribute Here: [N.a](N.a)
 
