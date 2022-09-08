@@ -37,6 +37,14 @@ const projects = [
         description: 'A live note taking page',
         link: "https://notus12potus35.herokuapp.com/"
     },
+    {
+        id: uuidv4(),
+        title: 'Waystone',
+        image: imgArray[4],
+        imgdesc: 'A social media application for DnD.',
+        description: 'A live DnD social media application',
+        link: "https://jb-waystone-fornt.herokuapp.com/waystone-front/home"
+    }
 ]
 
 function Project() {
